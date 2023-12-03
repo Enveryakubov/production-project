@@ -7,6 +7,7 @@ export type BuildPaths = {
     build: string;
     html: string;
     public: string;
+    src: string;
 };
 
 export type Env = {
